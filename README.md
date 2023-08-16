@@ -34,3 +34,5 @@ An API endpoint is a digital location where an API receives requests about a spe
 # Reflection
 
 How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
+This course helped me learn the front and back end in development which is essential. It helped me reach professional goals by learning how to work through problem solving, which is always essential. I am a master at the terminal, which seems to be not needed but the terminal commands are essential when it comes to downloaded needed software, pushing GIT and much more! I also learned more about Express and Node, I had used Mongo in past classes, so learning about this again in another application was refreshing. 
